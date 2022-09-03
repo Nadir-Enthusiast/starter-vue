@@ -1,1 +1,1 @@
-# starter-vue
+# First Vue project
